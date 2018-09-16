@@ -7,7 +7,7 @@
  
 O **Snake** é um projeto simples que utilizei para praticar meus conhecimentos em JS.
 
-![Imagem](https://github.com/DouglasAugustoJunior/SnakeJS/)
+![Imagem](https://github.com/DouglasAugustoJunior/SnakeInJS/blob/master/_images/Game.PNG?raw=true)
 
 
  
