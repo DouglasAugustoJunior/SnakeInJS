@@ -5,7 +5,7 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/JavaScript-game-orange.svg)
  
-O **Snake** é um projeto simples que utilizei para praticar meus conhecimentos em JS.
+O **Snake** é um projeto simples que utilizei para praticar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/SnakeInJS/)**
 
 ![Imagem](https://github.com/DouglasAugustoJunior/SnakeInJS/blob/master/_images/Game.PNG?raw=true)
 
